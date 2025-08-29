@@ -59,7 +59,7 @@ The goal is to classify whether an employee earns more than 50K per year using c
 pip install streamlit pandas scikit-learn joblib
 ```
 ---
-## 📈 Model Performance
+# 📈 Model Performance
 
 | Model               | Accuracy | Precision | Recall |
 |--------------------|----------|-----------|--------|
