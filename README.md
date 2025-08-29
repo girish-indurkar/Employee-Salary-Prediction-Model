@@ -13,7 +13,7 @@
 This project predicts whether an employee earns **>50K or <=50K** based on input features like age, education, occupation, etc.
 A machine learning project that predicts whether an employee earns **more than 50K** or **50K or less** based on features like age, education, occupation, hours per week, and more.
 
-## 🔧 Features
+# 🔧 Features
 > Built using **Logistic Regression** and **Random Forest**, deployed via **Streamlit** and **Gradio**, and trained in **Google Colab**.
 
 - ✅ Interactive Streamlit Web App
