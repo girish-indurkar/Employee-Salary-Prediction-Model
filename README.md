@@ -1,10 +1,13 @@
-# 💼 Employee Salary Classification App  
+# 💼 Employee Salary Classification App
+
+
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo.svg" alt="scikit-learn" width="120"/>
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="120"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="120"/>
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="140"/>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-1.3.0-orange?logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2.0.3-purple?logo=pandas&logoColor=white" alt="pandas"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-1.25.0-ff4b4b?logo=streamlit&logoColor=white" alt="streamlit"></a>
+  <a href="https://ngrok.com/"><img src="https://img.shields.io/badge/Ngrok-deploy-1e77ff?logo=ngrok&logoColor=white" alt="ngrok"></a>
 </p>
 
 ---
