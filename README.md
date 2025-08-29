@@ -1,6 +1,15 @@
 # 💼 Employee Salary Prediction App
-# 💼 Employee Salary Classification App# 💼 Employee Salary Prediction App
 # 💼 Employee Salary Classification App
+
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-1.3.0-orange?logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2.0.3-purple?logo=pandas&logoColor=white" alt="pandas"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-1.25.0-ff4b4b?logo=streamlit&logoColor=white" alt="streamlit"></a>
+  <a href="https://ngrok.com/"><img src="https://img.shields.io/badge/Ngrok-deploy-1e77ff?logo=ngrok&logoColor=white" alt="ngrok"></a>
+</p>
+
 
 This project predicts whether an employee earns **>50K or <=50K** based on input features like age, education, occupation, etc.
 A machine learning project that predicts whether an employee earns **more than 50K** or **50K or less** based on features like age, education, occupation, hours per week, and more.
