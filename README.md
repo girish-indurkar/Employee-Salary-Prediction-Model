@@ -56,7 +56,8 @@ The goal is to classify whether an employee earns more than 50K per year using c
 - 🚀 **Deployment**: Streamlit Cloud / Hugging Face Spaces *(optional)*
 
 ```bash
-pip install streamlit pandas scikit-learn joblib```
+pip install streamlit pandas scikit-learn joblib
+```
 ---
 
 ## 📈 Model Performance
