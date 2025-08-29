@@ -1,5 +1,4 @@
 # 💼 Employee Salary Prediction App
-# 💼 Employee Salary Classification App
 
 
 <p align="center">
